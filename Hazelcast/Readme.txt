@@ -1,1 +1,1 @@
-Working with Hazelxast in Python
+Working with Hazelcast in Python
